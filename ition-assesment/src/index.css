@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.hover:hover {
+  background-image: linear-gradient(to bottom right,#831185e6 , #f9f1f9e6);
+}
